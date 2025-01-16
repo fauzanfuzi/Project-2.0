@@ -85,9 +85,9 @@ Setting Page
 
 16/1/2025
 Just noticed that auth is a requirement for the project
--project restarted but not from scratch and also new github
--old asset retrieve to new laravel project with jetstream(without testing part)
--the UI inserted in dashboard(master.layout no longer needed)
+- project restarted but not from scratch and also new github
+- old asset retrieve to new laravel project with jetstream(without testing part)
+- the UI inserted in dashboard(master.layout no longer needed)
 - welcome page is redesign
 
 NOTES!!!!!
@@ -100,6 +100,10 @@ DB_PORT=3306
 DB_DATABASE=PocketPlanner2.0
 DB_USERNAME=root
 DB_PASSWORD=
+
+untuk run kena composer install,
+ php artisan migrate
+npm install
 
 
 
