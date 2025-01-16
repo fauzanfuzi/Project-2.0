@@ -1,5 +1,10 @@
 # PocketPlanner
- WebApp Project
+WebApp Project
+MUHAMMAD NURFAUZAN BIN MOHD FUZI 2210669
+FADLY MUHAMMAD 2117999
+ISKANDAR ZULQARNAEN BIN MOHAMMED 2215393
+MOHAMAD IRFAN FIRDAUS BIN MOHD BASRI 2218453	
+
 
 7/1/2025 
 - Laravel Installed
@@ -73,9 +78,9 @@ Setting Page
 
 16/1/2025
 Just noticed that auth is a requirement for the project
--project restarted but not from scratch
--old asset retrieve to new laravel project with jetstream
--the UI inserted in dashboard
+-project restarted but not from scratch and also new github
+-old asset retrieve to new laravel project with jetstream(without testing part)
+-the UI inserted in dashboard(master.layout no longer needed)
 
 
 
