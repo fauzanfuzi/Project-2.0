@@ -89,6 +89,16 @@ Just noticed that auth is a requirement for the project
 -old asset retrieve to new laravel project with jetstream(without testing part)
 -the UI inserted in dashboard(master.layout no longer needed)
 
+NOTES!!!!!
+- for some reason github not inlude .env file
+- .env file included manually in github website
+- if error encounter just edit this part
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=PocketPlanner2.0
+DB_USERNAME=root
+DB_PASSWORD=
 
 
 
