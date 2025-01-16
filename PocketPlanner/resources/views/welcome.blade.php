@@ -67,7 +67,7 @@
                                             <br>
 
                                             <p style="font-size: 30px; color: white; text-allign: center;">
-                                                Please Log In to Use Our
+                                                Please Log In to Use Our Services
                                             </p>
                                             <br>
                                             <br>
