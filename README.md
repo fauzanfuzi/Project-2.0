@@ -5,7 +5,7 @@ WebApp Project
 - ISKANDAR ZULQARNAEN BIN MOHAMMED 2215393
 - MOHAMAD IRFAN FIRDAUS BIN MOHD BASRI 2218453	
 
-Website functionality(CFinalized)
+Website functionality(Finalized)
 - User need to login
 - if no account exist, just register then login
 - User will go to dashboard
