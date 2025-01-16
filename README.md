@@ -1,10 +1,17 @@
 # PocketPlanner
 WebApp Project
-MUHAMMAD NURFAUZAN BIN MOHD FUZI 2210669
-FADLY MUHAMMAD 2117999
-ISKANDAR ZULQARNAEN BIN MOHAMMED 2215393
-MOHAMAD IRFAN FIRDAUS BIN MOHD BASRI 2218453	
+- MUHAMMAD NURFAUZAN BIN MOHD FUZI 2210669
+- FADLY MUHAMMAD 2117999
+- ISKANDAR ZULQARNAEN BIN MOHAMMED 2215393
+- MOHAMAD IRFAN FIRDAUS BIN MOHD BASRI 2218453	
 
+Website functionality(CFinalized)
+- User need to login
+- if no account exist, just register then login
+- User will go to dashboard
+- below the dashboard nav bar, there is Pocket Planner
+- Click the Pocket planner Nav Bar to browse in the system
+- Setting page allow the user to insert the data which will be displayed on home page and financial page
 
 7/1/2025 
 - Laravel Installed
