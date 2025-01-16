@@ -1,7 +1,7 @@
 # PocketPlanner
 WebApp Project
 - MUHAMMAD NURFAUZAN BIN MOHD FUZI 2210669
-- FADLY MUHAMMAD 2117999
+- MUHAMMAD FADLY 2117999
 - ISKANDAR ZULQARNAEN BIN MOHAMMED 2215393
 - MOHAMAD IRFAN FIRDAUS BIN MOHD BASRI 2218453	
 
@@ -13,6 +13,9 @@ Website functionality(Finalized)
 - Click the Pocket planner Nav Bar to browse in the system
 - Setting page allow the user to insert the data which will be displayed on home page and financial page
 
+Presentation Link Video: https://youtu.be/N-sLUzN28G8
+
+//////-------------------PROGRESS REPORT--------------////////////
 7/1/2025 
 - Laravel Installed
 - connection to database done
