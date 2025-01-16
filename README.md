@@ -88,6 +88,7 @@ Just noticed that auth is a requirement for the project
 -project restarted but not from scratch and also new github
 -old asset retrieve to new laravel project with jetstream(without testing part)
 -the UI inserted in dashboard(master.layout no longer needed)
+- welcome page is redesign
 
 NOTES!!!!!
 - for some reason github not inlude .env file
